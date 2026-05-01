@@ -12,7 +12,7 @@ The page includes:
 This project was created to practice semantic HTML, CSS flexbox, responsive design, and basic web page structure. 
 
 ## Link to this page
-[View live site here](https://yanabrex.github.io/cat-moe/)
+[View live site here](https://ianabond.github.io/cat-moe/)
 
 ## Screenshots
 
